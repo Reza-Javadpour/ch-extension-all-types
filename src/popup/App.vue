@@ -1,5 +1,9 @@
+<!--Show template in popup when click on chrome extension icon-->
 <template>
-  <hello-world />
+  <div>
+    Popup
+    <HelloWorld/>
+  </div>
 </template>
 
 <script>

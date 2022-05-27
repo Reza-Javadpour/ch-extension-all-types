@@ -1,5 +1,9 @@
+<!--Create a standalone to run without browser and install from your website-->
 <template>
-  <hello-world />
+  <div>
+    Stand Alone
+    <HelloWorld/>
+  </div>
 </template>
 
 <script>

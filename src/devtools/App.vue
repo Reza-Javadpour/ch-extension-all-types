@@ -1,5 +1,9 @@
+<!--Make devtools and see in Inspect menu after that follow tabs: console, network, application, ...-->
 <template>
-  <hello-world />
+  <div>
+    Dev Tools
+    <hello-world />
+  </div>
 </template>
 
 <script>

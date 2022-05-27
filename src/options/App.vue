@@ -1,5 +1,9 @@
+<!--Show template when right click and select options on chrome extension icon-->
 <template>
-  <hello-world />
+  <div>
+    Options
+    <HelloWorld/>
+  </div>
 </template>
 
 <script>
